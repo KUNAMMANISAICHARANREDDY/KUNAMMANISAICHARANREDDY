@@ -23,7 +23,7 @@
 ## 🧩 Competitive Programming
 
 ![LeetCode](https://img.shields.io/badge/LeetCode-350%2B%20Problems-orange)
-![LeetCode Rating](https://img.shields.io/badge/Max%20Rating-1505-brightgreen)
+![LeetCode Rating](https://img.shields.io/badge/Max%20Rating-1574-brightgreen)
 ![DSA](https://img.shields.io/badge/DSA-Java%20%7C%20C-blue)
 
 ✔ Arrays & Strings  
