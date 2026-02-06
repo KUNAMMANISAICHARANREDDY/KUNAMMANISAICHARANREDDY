@@ -12,7 +12,7 @@
 ## 🚀 About Me
 
 - 🔥 Passionate about **problem-solving** and **software development**
-- 🧠 Solved **450+ problems on LeetCode**
+- 🧠 Solved **500+ problems on LeetCode**
 - ⭐ **Max LeetCode Rating: 1505**
 - 💡 Strong foundation in **Java, C & Data Structures**
 - 🌱 Currently learning **advanced DSA & Full-Stack Development**
