@@ -12,9 +12,9 @@
 ## 🚀 About Me
 
 - 🔥 Passionate about **problem-solving** and **software development**
-- 🧠 Solved **500+ problems on LeetCode**
+- 🧠 Solved **572+ problems on LeetCode**
 - ⭐ **Max LeetCode Rating: 1574**
-- ⭐ **Max CodeChef Rating: 1478**
+- ⭐ **Max CodeChef Rating: 1090**
 - 💡 Strong foundation in **Java, C & Data Structures**
 - 🌱 Currently learning **advanced DSA & Full-Stack Development**
 - 🎯 Career Goal: Become an **industry-ready Software Engineer**
@@ -25,7 +25,7 @@
 
 ![LeetCode](https://img.shields.io/badge/LeetCode-501%2B%20Problems-orange)
 ![LeetCode Rating](https://img.shields.io/badge/Leetcode%20Rating-1574-brightgreen)
-![CodeChef Rating](https://img.shields.io/badge/Codechef%20Rating-1478-brightgreen)
+![CodeChef Rating](https://img.shields.io/badge/Codechef%20Rating-1090-brightgreen)
 ![DSA](https://img.shields.io/badge/DSA-Java%20%7C%20C-blue)
 
 ✔ Arrays & Strings  
