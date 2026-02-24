@@ -12,7 +12,7 @@
 ## 🚀 About Me
 
 - 🔥 Passionate about **problem-solving** and **software development**
-- 🧠 Solved **572+ problems on LeetCode**
+- 🧠 Solved **605+ problems on LeetCode**
 - ⭐ **Max LeetCode Rating: 1574**
 - ⭐ **Max CodeChef Rating: 1090**
 - 💡 Strong foundation in **Java, C & Data Structures**
