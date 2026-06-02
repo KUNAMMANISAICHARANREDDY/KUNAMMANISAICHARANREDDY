@@ -1,6 +1,6 @@
 # 👋 Hi, I’m **Mani Sai Charan Reddy**
 
-🎓 **B.Tech 3rd Year Student** | **Parul University**, Vadodara, Gujarat  
+🎓 **B.Tech 4th Year Student** | **Parul University**, Vadodara, Gujarat  
 💻 **Aspiring Software Developer** | **Java + DSA | MERN Stack**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=KUNAMMANISAICHARANREDDY&color=blue)
